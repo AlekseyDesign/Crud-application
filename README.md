@@ -1,7 +1,7 @@
 # Crud-application
 
 
-CRUD application is made using Node.js and React.js
+CRUD приложение реализованное при помощи Node.js and React.js
 
 Запустить приложение:
 
